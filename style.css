@@ -1,12 +1,14 @@
-*{
+* {
   scroll-behavior: smooth;
 }
-
-.smoothscoll > li > a{
-  padding: 33px 16px;
-  font-size: 14px;
-  color: #231f20;
-  font-weight: 600;
-  text-transform: uppercase;
+.navdiv {
+  display: flex;
+  flex-direction: flex-end;
 }
+.logodiv {
+  min-width: 50px;
+}
+
+
+.navbar {
 }
